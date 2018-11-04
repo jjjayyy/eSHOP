@@ -1,6 +1,7 @@
 # About Repository
 
 PHP로 만든 eSHOP 입니다.
+URL : http://ec2-13-209-40-63.ap-northeast-2.compute.amazonaws.com/eshop/home.php
 
 ## eSHOP
 - Term : 2018.06.03 ~ 2018.06.16
